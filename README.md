@@ -9,9 +9,9 @@
 
 ```
 ordering-system/
-├── index.html          # Main store frontend
-├── compute.php         # Order processing backend
-└── README.md           # Project documentation
+├── index.html          # Main store Frontpage
+├── compute.php         # Order Process
+└── README.md           # Project doc
 ```
 
 
